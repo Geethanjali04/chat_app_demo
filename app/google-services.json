@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845446298064",
+    "project_id": "chatapplication-63613",
+    "storage_bucket": "chatapplication-63613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845446298064:android:ceda9646b8977aba4fa1d5",
+        "android_client_info": {
+          "package_name": "udy.tutorials.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845446298064-70c49slljqro8ul40kar9dvj26o40s8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCafGdpOPjXD8saU4CX5tL4pEmnxDDisOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845446298064-70c49slljqro8ul40kar9dvj26o40s8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
